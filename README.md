@@ -1,3 +1,3 @@
 # jpegify
-downscales an image by 10x <br>
+works half of the time<br>
 <img src="bad.jpg" width=800 height=600>
